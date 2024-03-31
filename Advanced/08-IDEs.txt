@@ -1,0 +1,8 @@
+-DBVisualizer
+
+Servicios de almacenamiento
+-Vercel -> PostgreSQL
+-Supabase -> PostgreSQL
+-Raiola
+-PlanetScale
+-Clever Cloud

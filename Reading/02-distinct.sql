@@ -1,0 +1,2 @@
+SELECT DISTINCT * FROM users;
+SELECT DISTINCT ager FROM users;

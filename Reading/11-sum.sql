@@ -1,0 +1,1 @@
+SELECT SUM(ager) FROM users;
